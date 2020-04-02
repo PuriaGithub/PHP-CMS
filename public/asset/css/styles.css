@@ -1,0 +1,33 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 1em;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+}
+
+.lead {
+    background: tomato;
+    color: white;
+    padding: 1em;
+}
+
+
+table {
+    width: 60%;
+    margin: auto;
+}
+
+table,tr,td,th {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: .2em;
+}
+
+th {
+    background: lightcoral;
+    color: aliceblue;
+    text-align: start;
+}

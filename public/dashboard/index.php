@@ -3,7 +3,7 @@
 <?php include( SHARED_PATH . '/dashboard/header.php') ?>
 
 <div class="content">
-    <h1>Welcome to Dashboard</h1>
+    <h1 class="lead">Welcome to Dashboard</h1>
     <div class="main-menu">
         <h2>Main Menu</h2>
         <ul>
